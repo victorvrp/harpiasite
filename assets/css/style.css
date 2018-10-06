@@ -1,0 +1,18 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#menu-principal {
+  border-bottom: 4px solid #29c0b5;
+}
+
+#menu-principal .navbar-brand img {
+  width: 90px;
+}
+
+#menu-principal #navbarSupportedContent ul li {
+  font-size: 14px;
+  margin-right: 8px;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=style.css.map */

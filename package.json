@@ -1,0 +1,27 @@
+{
+  "name": "harpiasite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvrp/harpiasite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorvrp/harpiasite/issues"
+  },
+  "homepage": "https://github.com/victorvrp/harpiasite#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.12.9"
+  }
+}

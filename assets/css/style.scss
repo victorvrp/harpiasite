@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#menu-principal {
+
+    border-bottom: 4px solid #29c0b5;
+
+    .navbar-brand {
+        img {
+            width: 90px;
+        }
+    }
+    #navbarSupportedContent {
+        ul {
+            li {
+                font-size: 14px;
+                margin-right: 8px;
+                text-transform: uppercase;
+            }
+        }
+    }
+}
+
